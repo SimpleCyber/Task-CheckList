@@ -6,35 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let lastDeletedTask = null;
   
     const initialTasks = [
-      "Weather App",
-      "To-do List App",
-      "Calculator App",
-      "Online Quiz App",
-      "Digital Clock",
-      "Text To Voice Converter",
-      "QR Code Generator",
-      "Random Password Generator",
-      "Notes App",
-      "Quote Generator App",
-      "Toast Notification",
-      "Music Player",
-      "Image Search Engine",
-      "Popup Notification",
-      "Mini Calendar",
-      "Image Background Change",
-      "Stopwatch",
-      "Hide And Show Password",
-      "Light & Dark Mode",
-      "Image Slider",
-      "Form Validation",
-      "Drop Down Menu",
-      "Circular Progress Bar",
-      "Product Details Page",
-      "Crypto Webpage",
-      "Drag and Drop",
-      "Email Subscription",
-      "Password Strength Indicator",
-      "Coming Soon Page"
+      "Create Your First Task...:)"
     ];
   
     chrome.storage.sync.get('checklist', function(result) {
