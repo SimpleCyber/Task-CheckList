@@ -49,4 +49,4 @@ If you'd like to contribute to this project, please fork the repository and use 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ### Example
-<img src="Screenshot 2024-07-16 095742.png" alt="Checklist Extension" height="200px" width="130px">
+<img src="Screenshot 2024-07-16 095742.png" alt="Checklist Extension" height="500px" width="350px">
