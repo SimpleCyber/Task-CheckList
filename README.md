@@ -47,3 +47,6 @@ If you'd like to contribute to this project, please fork the repository and use 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+### Example
+<img src="Screenshot 2024-07-16 095742.png" alt="Checklist Extension" height="80px" width="50px">
